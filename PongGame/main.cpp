@@ -80,6 +80,7 @@ int main() {
 
 
 
+
 	sf::Font fonts;
 	fonts.loadFromFile("C:\\abc.ttf");
 	// Create a text
